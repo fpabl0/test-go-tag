@@ -1,4 +1,4 @@
-package tester
+package test
 
 // Hello test func
 func Hello() string {
